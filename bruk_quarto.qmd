@@ -38,7 +38,7 @@ For å lære mer om Quarto, se også <https://quarto.org>.
 
 # Tekst og matte
 
-Du kan srive symboler og ligninger lekende lett med LaTeX-syntaks:
+Du kan skrive symboler og ligninger lekende lett med LaTeX-syntaks:
 
 Vi ser på en **konsument** som kan *kjøpe* gode $x_1$ og $x_2$.
 
@@ -52,7 +52,7 @@ Konsumenten liker begge goder, dvs $\frac{\partial U}{\partial x_1}>0, \frac{\pa
 
 Vi ser at @eq-nytte viser nyttefunksjonen. Videre er @eq-nytte viktig.
 
-Det finnes massse gode ressurser på nettet for hvordan man skriver ligninger i Quarto, f.eks. [her](https://qmd4sci.njtierney.com/math.html).
+Det finnes masse gode ressurser på nettet for hvordan man skriver ligninger i Quarto, f.eks. [her](https://qmd4sci.njtierney.com/math.html).
 
 ::: callout-tip
 ### Oppgave: Matte og kryssreferanse
@@ -203,7 +203,7 @@ Se @tbl-tall.
 2.  Velg **Insert → Table** i den visuelle editoren.\
 3.  Legg inn minst tre kolonner og tre rader med egne data (f.eks. navn, alder, høyde).\
 4.  Render dokumentet og sjekk hvordan tabellen ser ut i PDF-en.\
-5.  Bonus: Legg til eller fjern en kolonne via **Table → Edit Table** i menyen, og render igjen for å se forskjellen.
+5.  Bonus: Legg til eller fjern en kolonne via **Table → Insert/delete column...** i menyen, og render igjen for å se forskjellen.
 :::
 
 # Bilder
