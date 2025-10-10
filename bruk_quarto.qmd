@@ -63,7 +63,13 @@ Det finnes masse gode ressurser på nettet for hvordan man skriver ligninger i Q
 
 # Kode
 
-Velg "Executable cell-R" (ctrl+alt+I).
+Velg "Executable cell-R" (ctrl+alt+I i Windows, cmd+option+I i Mac).
+
+```{r}
+```
+
+```{r}
+```
 
 ```{r}
 
